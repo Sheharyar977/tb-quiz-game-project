@@ -1,0 +1,31 @@
+.welcome { 
+    border: 1px solid black ; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px ;
+    width: 50%;
+    margin: auto; 
+    margin-bottom: 50%;
+    margin-top: 50%;
+    margin-left: 50%;
+    margin-right: 50% ;
+    text-align: center;
+
+}
+
+.center { 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+    
+}
+
+p { 
+    padding: 50px; 
+}
+
+#btnBegin { 
+    padding: 20px 30px;
+}
